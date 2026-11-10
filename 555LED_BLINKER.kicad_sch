@@ -2444,7 +2444,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "af215346-6d7c-459a-9b10-3d1062b11984")
 		(property "Reference" "#FLG01"
 			(at 119.38 73.025 0)
@@ -2458,7 +2457,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 119.38 69.85 0)
+			(at 121.666 76.708 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
